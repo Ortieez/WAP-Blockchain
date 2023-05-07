@@ -2,6 +2,8 @@
 
 This project includes TypeScript classes for Block and Chain implementation of a basic blockchain.
 
+![UML Class Diagram](./diagram.png)
+
 ## Block
 
 The `Block` class includes four private properties: `id`, `dttm`, `content`, and `hash`. These properties can be accessed and modified using public getter and setter methods.
